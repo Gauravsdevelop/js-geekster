@@ -15,7 +15,7 @@ This project demonstrates how to fetch a `div` element and apply different style
 1. Clone this repository to your local machine.
 2. Open `index.html` in a browser to see the styled `div`.
 3. Alternatively, view the live version of the project hosted at the following link:
-   [Live Version Link](#----)
+   [Live Version Link](https://gauravsdevelop.github.io/js-geekster/)
 
 ## Technologies Used
 - HTML
